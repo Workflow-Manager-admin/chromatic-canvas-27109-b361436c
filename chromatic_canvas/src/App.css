@@ -224,7 +224,7 @@ body {
   margin-top: 9px;
 }
 
-/* Hide branding leftovers */
-.logo, .logo-symbol {
+/* Hide only unused logo placeholders, not main branding in navbar */
+.logo-symbol {
   display: none !important;
 }
