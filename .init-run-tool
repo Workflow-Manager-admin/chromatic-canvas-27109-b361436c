@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/chromatic-canvas-27109-b361436c/chromatic_canvas"
+}
